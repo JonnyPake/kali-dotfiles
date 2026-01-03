@@ -14,49 +14,43 @@
 
 ## 🚀 Features
 
-**Experience the Magic of Customization with gh0stzk's bspwm dotfiles**
+<p>These dotfiles for bspwm offer 15 different themes, with each having different color schemes, styles and personality.</p>
 
-<sup>Welcome to the world of limitless customization! gh0stzk's dotfiles for bspwm offer a unique and exciting experience with 15 different themes, each featuring captivating color schemes, styles and personality. Immerse yourself in a visual journey that will transform your workspace in an impressive way.</sup>
+**Change themes**
 
-**Change themes on the fly**
+<sup>The custom menu based on rofi launcher, allows you to switch between the different themes easily.</sup>
 
-<sup>With our custom menu based on rofi launcher, switching between the 15 themes is as easy as a click. Enjoy the versatility of styles and color combinations instantly.</sup>
+**Consistency**
 
-**Consistency Across the Environment**
-
-<sup>Each theme not only changes the appearance of bspwm but also instantly transforms the color scheme in alacritty terminal, eww widgets, polybar bars, notifications, and more. Visual harmony is guaranteed in every corner of your system.</sup>
+<sup>Each theme not only changes the appearance of bspwm but also changes the color scheme in alacritty terminal, eww widgets, polybar bars, notifications, and more.</sup>
 
 **Unique Eww Widgets**
 
-<sup>Discover 4 unique eww widgets, including a calendar, power menu, music player, and user card. These widgets are not only functional but also instantly adapt to the color scheme of the selected theme.</sup>
+<sup>Uses 4 unique eww widgets, including a calendar, power menu, music player, and user card.</sup>
 
 **Complete Customization**
 
-<sup>Explore an elegant right-click menu made with Jgmenu, which also syncs with themes for flawless visual consistency. Additionally, 10 polybar bars and 2 eww widgets offer a fully customizable user experience.</sup>
+<sup>Contains a right-click menu made with Jgmenu, which also syncs with themes. Additionally, 10 polybar bars and 2 eww widgets offer more customization.</sup>
 
-**Variety of Wallpapers**
+**Wallpapers**
 
-<sup>Each login surprises you with a randomly selected wallpaper specifically tailored to the theme in use. But if surprises aren't your thing, our wallpaper menu lets you choose from over 5 exclusive wallpapers for each theme.</sup>
+<sup>Each login chooses a randomly selected wallpaper specific to the theme in use. The wallpaper menu lets you choose from the different wallpapers for each theme if you want a specific wallpaper each time.</sup>
 
-**Visual Composition with Picom**
+**Visual Composition**
 
-<sup>Experience effortless beauty with picom as the compositor, providing a pleasing aesthetic without sacrificing performance. Enjoy a hassle-free working experience with delightful visual effects, balance between performance and beauty..
-And you can adjust the transparency of your open windows with a simple key combination. Control the appearance of your desktop to perfectly suit your mood and style.</sup>
+<sup>Picom is used as the compositor, providing pleasing visuals without negative performance even in a VM. It allows also adjusting the transparency of the open windows with a simple key combination.</sup>
 
 **Additional Features:**
 
 - **Local Music Control:**
-  
-  <sup>Manage your local music from the polybar module and the ncmpcpp player, both with a unique design that adapts to the theme's color scheme.</sup>
+
+  <sup>Manage your local music from the polybar module and the ncmpcpp player</sup>
 - **Flexibility:**
 
-  <sup>Hide and show the polybar and eww widgets according to your needs, giving you complete control over your workspace.</sup>
+  <sup>Hide and show the polybar and eww widgets according to your needs</sup>
 - **Functional Scratchpad:**
 
   <sup>Access the scratchpad functionality, a terminal window you can show or hide for tasks when you don't want the window taking up unnecessary space.</sup>
-
-Transform your user experience with gh0stzk's dotfiles for bspwm! Install now and breathe life into your desktop with style and personality.
-
 <br>
 
 > [!CAUTION]
@@ -75,7 +69,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 |:-:|
 |![Screenshot-11_12_2023-01-03-00](https://github.com/gh0stzk/dotfiles/assets/67278339/0746df0f-6a56-44d6-a899-7bdbc0f1a593)|
 
-### 🌸Emilia:
+### Emilia:
 
 |<img src="https://user-images.githubusercontent.com/67278339/280174054-8f56d12d-4efa-4024-99e1-4679591b45ca.gif" alt="Emilia Rice" align="center">|
 |---|
@@ -89,7 +83,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸Jan
+### Jan
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/6e4959b7-6d07-42c6-8ede-2f3c16094ad2" alt="Jan Rice" align="center">|
 |---|
@@ -103,7 +97,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸Aline
+### Aline
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/5ae48d8d-ebcb-4fd5-9c80-78fc325a7a38" alt="Aline Rice" align="center">|
 |---|
@@ -117,7 +111,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸Andrea
+### Andrea
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/1bfd302f-0e3f-4973-975b-56c78d6140ee" alt="Andrea Rice" align="center">|
 |---|
@@ -131,7 +125,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸Cynthia
+### Cynthia
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/5df45139-1d73-4f5f-8e8d-a417c86bfb96" alt="Cynthia Rice" align="center">|
 |---|
@@ -145,7 +139,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸Isabel
+### Isabel
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/f2a0002f-3370-4361-9301-08abadcad600" alt="Isabel Rice" align="center">|
 |---|
@@ -159,7 +153,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸Silvia
+### Silvia
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/616c2d93-fabf-41c2-9ab8-9c7b4d6a2e35" alt="Silvia Rice" align="center">|
 |---|
@@ -173,7 +167,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸Melissa
+### Melissa
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/a63e250d-c5d1-4360-afd7-cf64bf55a0fc" alt="Melissa Rice" align="center">|
 |---|
@@ -187,7 +181,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸Pamela
+### Pamela
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/f9e85839-53c9-4e15-a800-8a2f7ca40691" alt="Pamela Rice" align="center">|
 |---|
@@ -201,7 +195,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸Cristina
+### Cristina
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/e14c6777-25f6-4621-a88b-4fda71dbcc7f" alt="Cristina Rice" align="center">|
 |---|
@@ -215,7 +209,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸Karla
+### Karla
 **(Zombie-Night Color Scheme)**
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/5455afdf-cc2f-4a8c-8fcd-526c59066d50" alt="Karla Rice" align="center">|
 |---|
@@ -230,7 +224,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸z0mbi3:
+### z0mbi3:
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/ff65caa8-6a15-4873-bf05-edf89ac0985d" alt="z0mbi3 Rice" align="center">|
 |---|
@@ -244,7 +238,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸Brenda:
+### Brenda:
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/22e37944-5aad-46bf-8934-3a57d1718ed2" alt="Brenda Rice" align="center">|
 |---|
@@ -258,7 +252,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸Daniela:
+### Daniela:
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/f296d6b4-9c8a-49ae-bf63-d82e5105f122" alt="Daniela Rice" align="center">|
 |---|
@@ -272,7 +266,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-### 🌸Marisol:
+### Marisol:
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/d11d20c5-1edc-44c8-901b-a4103a139617" alt="Daniela Rice" align="center">|
 |---|
@@ -286,7 +280,7 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 
 </details>
 
-## Very useful keybindigs to know...
+## Useful keybindings
 
 | Keys | Action |
 |:-|:-|
@@ -300,19 +294,23 @@ Transform your user experience with gh0stzk's dotfiles for bspwm! Install now an
 |<kbd>ctrl</kbd> + <kbd>super</kbd> + <kbd>alt</kbd> + <kbd>p</kbd><br><kbd>ctrl</kbd> + <kbd>super</kbd> + <kbd>alt</kbd> + <kbd>r</kbd><br><kbd>ctrl</kbd> + <kbd>super</kbd> + <kbd>alt</kbd> + <kbd>k| Power off computer<br>Restart computer<br>Brute kill a window/process
 |<kbd>super</kbd> + <kbd>alt</kbd> + <kbd>r</kbd>| Restart bspwm.
 
-And more.. You need to look sxhkdrc file for more.
+The `sxhkdrc` file contains a lot more useful keybindings and allows for your own.
 
-## 📦 setup
+## 📦 Setup
 
 ### 💾 Installation:
-### ```󰣇``` ARCH DISTROS:
-The installer only works for **ARCH** Linux, and based distros. For the Arch's type, goes to the original repository.
 
-### `````` KALI:
-# Kali Dotfiles Upad
+### Arch Distributions:
+The installer only works for **ARCH** Linux, and based distros as this rice was originally designed for an Arch Linux base install.
+
+### KALI:
+
+# Kali Dotfiles Update
+
 ###########################################################################
 # IMPORTANT: EXECUTE A BACKUP OF THE ALL FILES THAT WILL BE REPLACED HERE #                                             
 ###########################################################################
+
 This is the repository for my personalized rice for the Kali Linux distro, which was imported over from an Arch Linux install.
 
 All scripts have been modified to (hopefully) work on an out-of-box Kali system. These scripts have been tested and proven to work on a fresh Kali install from a KDE desktop environment, although the DE should not affect the install.
