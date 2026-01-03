@@ -6,7 +6,6 @@
 &ensp;[<kbd> <br> Features <br> </kbd>](#-features)&ensp;
 &ensp;[<kbd> <br> Themes <br> </kbd>](#-the-themes)&ensp;
 &ensp;[<kbd> <br> Keybindings <br> </kbd>](#very-useful-keybindigs-to-know)&ensp;
-&ensp;[<kbd> <br> Wiki <br> </kbd>](https://github.com/gh0stzk/dotfiles/wiki)&ensp;
 <br><br><br></div>
 
 
@@ -14,7 +13,6 @@
 <br>
 
 ## 🚀 Features
-<img src="https://user-images.githubusercontent.com/67278339/221605474-21d65156-0cf7-485c-bd1a-40792c37817e.png" alt="Linux Fetch" align="right" width="450">
 
 **Experience the Magic of Customization with gh0stzk's bspwm dotfiles**
 
