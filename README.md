@@ -1,18 +1,6 @@
 # BSPWM Custom Themes for Kali
 <div align = center>
 
-&ensp;[<kbd> <br> Install <br> </kbd>](#-setup)&ensp;
-&ensp;[<kbd> <br> Features <br> </kbd>](#-features)&ensp;
-&ensp;[<kbd> <br> Themes <br> </kbd>](#-the-themes)&ensp;
-&ensp;[<kbd> <br> Keybindings <br> </kbd>](#very-useful-keybindigs-to-know)&ensp;
-&ensp;[<kbd> <br> Wiki <br> </kbd>](https://github.com/gh0stzk/dotfiles/wiki)&ensp;
-&ensp;[<kbd> <br> En Español <br> </kbd>](INICIO.md)&ensp;
-<br><br><br></div>
-
-https://user-images.githubusercontent.com/67278339/211363959-9182ecb7-e56e-4598-afed-f352c5d2979e.mp4
-
-<br>
-
 ## 🚀 Features
 <img src="https://user-images.githubusercontent.com/67278339/221605474-21d65156-0cf7-485c-bd1a-40792c37817e.png" alt="Linux Fetch" align="right" width="450">
 
