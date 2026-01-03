@@ -1,5 +1,18 @@
-# BSPWM Custom Themes for Kali
+# BSPWM themes | A complete bspwm environment
 <div align = center>
+
+
+&ensp;[<kbd> <br> Install <br> </kbd>](#-setup)&ensp;
+&ensp;[<kbd> <br> Features <br> </kbd>](#-features)&ensp;
+&ensp;[<kbd> <br> Themes <br> </kbd>](#-the-themes)&ensp;
+&ensp;[<kbd> <br> Keybindings <br> </kbd>](#very-useful-keybindigs-to-know)&ensp;
+&ensp;[<kbd> <br> Wiki <br> </kbd>](https://github.com/gh0stzk/dotfiles/wiki)&ensp;
+&ensp;[<kbd> <br> En Español <br> </kbd>](INICIO.md)&ensp;
+<br><br><br></div>
+
+
+
+<br>
 
 ## 🚀 Features
 <img src="https://user-images.githubusercontent.com/67278339/221605474-21d65156-0cf7-485c-bd1a-40792c37817e.png" alt="Linux Fetch" align="right" width="450">
@@ -47,17 +60,13 @@ And you can adjust the transparency of your open windows with a simple key combi
 
 Transform your user experience with gh0stzk's dotfiles for bspwm! Install now and breathe life into your desktop with style and personality.
 
-## :book: Wiki
-I already started writing the [**Wiki**](https://github.com/gh0stzk/dotfiles/wiki), you should give it a read. If it is your first time with a WM, you may be interested in reading [First steps after installing the dotfiles](https://github.com/gh0stzk/dotfiles/wiki/Firsts-steps-after-installing) or maybe read [frequently asked questions and answers](https://github.com/gh0stzk/dotfiles/wiki/Questions---Answers) [Keybinds](https://github.com/gh0stzk/dotfiles/wiki/Keyboard-Shortcuts) [Firefox Theme](https://github.com/gh0stzk/dotfiles/wiki/Firefox-Theme).
-
 <br>
 
 > [!CAUTION]
-> ⚠️⚠️⚠️ This dotfiles are configured at **1600x900** resolution with **96** DPI and **1** monitor.
+> ⚠️⚠️⚠️ This dotfiles are configured at **2560x1440** resolution with **96** DPI and **2** monitors.
 > Some stuff might break on lower or higher resolutions, but still work!! ⚠️⚠️⚠️
 
 <br>
-
 
 ## 🎨 The themes
 
@@ -280,18 +289,6 @@ I already started writing the [**Wiki**](https://github.com/gh0stzk/dotfiles/wik
 
 </details>
 
-## Firefox Theme (z0mbi3 Fox)
-
-|<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/9b956d3d-fc7b-49ca-b27f-dc6aa83d9e2f" alt="Firefox theme - z0mbi3-Fox" width="700">|
-|:-:|
-Complementarily you can install [this extension](https://github.com/PonyLucky/gh0stzk-Firefox/tree/master/extension) made by [PonyLucky](https://github.com/PonyLucky). It is a startpage to enhance UX. [Preview and configuration options](https://github.com/PonyLucky/gh0stzk-Firefox/tree/master/extension). Looks awesome with the firefox theme.
-
-## Neovim Setup
-
-|<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/17a1eb30-437e-4bf2-980c-6a410eff76bb" alt="Neovim configuration" width="700">|
-|:-:|
-Plugins included [Neovim setup wiki](https://github.com/gh0stzk/dotfiles/wiki/Neovim-setup)
-
 ## Very useful keybindigs to know...
 
 | Keys | Action |
@@ -315,37 +312,25 @@ And more.. You need to look sxhkdrc file for more.
 The installer only works for **ARCH** Linux, and based distros. For the Arch's type, goes to the original repository.
 
 ### `````` KALI:
-# kali-gh0stzk-dotfiles
+# Kali Dotfiles Upad
 ###########################################################################
 # IMPORTANT: EXECUTE A BACKUP OF THE ALL FILES THAT WILL BE REPLACED HERE #                                             
 ###########################################################################
-This is the repository for the rice gh0stzk-dotfiles (https://github.com/gh0stzk/dotfiles) for Kali Linux distro, which was create for Arch Linux distros.
-All credits goes to @gh0stzk [gh0stzk](https://github.com/gh0stzk) for the original project, and for the .
-I first clone the @ChrisMethsillo's repository [ChrisMethsillo](https://github.com/ChrisMethsillo/gh0stzk-bspwm-kali), where there are the kali scripts that install all dependencies for Debian Based Distros.
-I made some modifications on the scripts in order to work on my kali system.
+This is the repository for my personalized rice for the Kali Linux distro, which was imported over from an Arch Linux install.
+
+All scripts have been modified to (hopefully) work on an out-of-box Kali system. These scripts have been tested and proven to work on a fresh Kali install from a KDE desktop environment, although the DE should not affect the install.
+
 Install the scripts in kali-scripts directory:
   - ```./InstallDependencies```
   - ```./InstallEww```
   - ```./InstallDotFiles```
   - ```./PostInstallation```
 
-# IF THE PostInstallation script didn't work, it can be done manually as the following:
-If necessary, after install all the scripts in kali-scripts directory, execute the commands as the following:
-- If necessary, change the current .config directory to the config directory that is created after the install the kali scripts;
-- Copy the h4ck3r theme folder from the original [dotfiles](https://github.com/gh0stzk/dotfiles) repository;
-- Copy the ```config/bspwm/src``` from the original repository [src folder](https://github.com/gh0stzk/dotfiles/tree/master/config/bspwm/src);
-- Copy the ```.zshrc``` [.zshrc](https://github.com/gh0stzk/dotfiles/blob/master/home/.zshrc) file from the original repository;
-- Install the eza application from [eza](https://github.com/eza-community/eza);
-- Install these two plugins for oh-my-zsh:
-    1- [zsh-autosuggestion plugin](https://github.com/zsh-users/zsh-autosuggestions)
-    2- [zsh-syntax-highlighting plugin](https://github.com/zsh-users/zsh-syntax-highlighting)
-    3- [zsh-git plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) - OPTIONAL
-- Copy the [colorscript](https://github.com/gh0stzk/dotfiles/blob/master/misc/bin/colorscript) from the original repository to ```/.local/bin/```;
-
 # MANUAL CONFIGURATION NEEDED
-- On ```.zshrc```, comment the lines there is calls for the pacman tool.
+- On ```.zshrc```, comment any lines that mention "pacman" as this is Arch specific and will break things.
 
 # OPTIONAL CONFIGURATIONS
+
 - In my installation, I changed the alacritty font terminal from JetBrains to Iosevka.
   - Edit file ```.config/alacritty/fonts.toml```
   - Changed the size parameter to 11
@@ -353,3 +338,4 @@ If necessary, after install all the scripts in kali-scripts directory, execute t
 - Changed the polybar font from JetBrains to [ShureTech Nerd Font](https://github.com/th3g3ntl3m4n84/kali-gh0stzk-dotfiles.git)
   - Edit file ```.config/bspwm/rices/h4ck3r/config.ini```
   - Change the parameter ```font-0``` for ```ShureTechMono Nerd Font```, and change ```pixelsize``` to 11;3.
+
