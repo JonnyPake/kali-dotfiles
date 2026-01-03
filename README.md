@@ -7,7 +7,6 @@
 &ensp;[<kbd> <br> Themes <br> </kbd>](#-the-themes)&ensp;
 &ensp;[<kbd> <br> Keybindings <br> </kbd>](#very-useful-keybindigs-to-know)&ensp;
 &ensp;[<kbd> <br> Wiki <br> </kbd>](https://github.com/gh0stzk/dotfiles/wiki)&ensp;
-&ensp;[<kbd> <br> En Español <br> </kbd>](INICIO.md)&ensp;
 <br><br><br></div>
 
 
