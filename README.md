@@ -1,10 +1,5 @@
-# BSPWM themes | A complete bspwm environment
+# BSPWM Custom Themes for Kali
 <div align = center>
-   
-![bspwm-dotfiles](https://github.com/gh0stzk/dotfiles/assets/67278339/0340846a-74d4-4a43-9430-142b0832738d)
-
-
-
 
 &ensp;[<kbd> <br> Install <br> </kbd>](#-setup)&ensp;
 &ensp;[<kbd> <br> Features <br> </kbd>](#-features)&ensp;
